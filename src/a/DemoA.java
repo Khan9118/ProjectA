@@ -6,6 +6,11 @@ public class DemoA {
 		System.out.println("Mabood Wahab");
 		
 		System.out.println("My favrite subject is Java");
+		
+	}
+	// Sprint 2 automation
+	public static void add(int a, int b) {
+		System.out.println(a +b);
 	}
 
 }
